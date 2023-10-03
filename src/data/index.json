@@ -1,0 +1,66 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "src": "./img/developpement.gif",
+      "title": "Développement",
+      "description": "Nous sommes chargés de créer, améliorer et maintenir les applications, logiciels, sites web et autres solutions technologiques nécessaires à l'activité de l'entreprise."
+    },
+    {
+      "id": "3",
+      "src": "./img/cloud.gif",
+      "title": "Cloud Computing",
+      "description": "Nous englobons la fourniture de solutions informatiques flexibles, évolutives et basées sur le cloud pour répondre aux besoins en matière de stockage, de traitement des données, d'hébergement d'applications et d'autres services liés à la technologie. "
+    },
+    {
+      "id": "2",
+      "src": "./img/reseaux.gif",
+      "title": "Implémentation des serveurs",
+      "description": "Ce service consiste en la conception, la configuration, le déploiement et la gestion de l'infrastructure serveur nécessaire pour soutenir les opérations informatiques."
+    }
+  ],
+  "projets": [
+    {
+      "id": "1",
+      "src": "./img/Parakech.png",
+      "title": "ParaKech",
+      "description": "C'est une application de gestion du stock d'une parapharmacie en utilisant c#",
+      "service_id": "1"
+    },
+    {
+      "id": "2",
+      "src": "./img/e-stock.png",
+      "title": "E-Stock",
+      "description": "C'est une application en PHP qui gèrent les E/S du stock sous LARAVEL",
+      "service_id": "1"
+    },
+    {
+      "id": "3",
+      "src": "./img/Réussite.png",
+      "title": "Réussite",
+      "description": "C'est une application en PHP qui gèrent une école primaire \"La Réussite\"",
+      "service_id": "1"
+    },
+    {
+      "id": "4",
+      "src": "./img/ckd.png",
+      "title": "CKD-Prediction",
+      "description": "C'est une application desktop en python qui prédit si une personne sera attaquée avec CKD ou pas",
+      "service_id": "1"
+    },
+    {
+      "id": "5",
+      "src": "./img/stockManagement.png",
+      "title": "Stock-Management",
+      "description": "C'est une application en JAVA Swing qui gèrent les E/S du stock",
+      "service_id": "1"
+    },
+    {
+      "id": "6",
+      "src": "./img/DHCP.png",
+      "title": "Serveur DHCP",
+      "description": "C'est la mise en place d'un système qui permettra de distribuer automatiquement les adresses IP aux dispositifs connectés à un réseau local.",
+      "service_id": "2"
+    }
+  ]
+}
